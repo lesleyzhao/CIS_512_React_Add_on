@@ -3,8 +3,9 @@
 Weather App Design Home Page
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/lesleyzhao/CIS_512_React_Add_on.git
+cd CIS_512_React_Add_on
+cd my-weather-app
 npm install
 npm start
 ```
